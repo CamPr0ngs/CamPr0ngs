@@ -10,7 +10,7 @@
 - **Empatía con el Usuario Final:** Capacidad para ponerse en el lugar del usuario, fundamental para diseñar soluciones accesibles e inclusivas.
 
 - **Gestión del Tiempo y Priorización:** Habilidad para organizar cargas de trabajo académicas y proyectos de desarrollo, cumpliendo con los deadlines establecidos.
-## Lista de Idiomas
+# Lista de Idiomas
 - **Español:** Nativo.
 -  **Inglés Técnico (Nivel B2):** Especializado en la interpretación de documentación de software, APIs y entornos de desarrollo internacionales.
 -  **Japonés (Avanzado / N5-N4):** Alta capacidad de comprensión y lectura. Interés profundo en la cultura tecnológica y metodologías de trabajo orientadas a la eficiencia y el detalle (como *Kaizen*).
